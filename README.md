@@ -12,4 +12,4 @@
 		<tr><a href=""><img src="buttons 2.png" alt="javascripts></a></tr>
 		<tr><a href=""><img src="buttons 3.png" alt="about me"></a></tr>
 	</thead>
-	<h2>About me</h2>
+	<h2>Javascripts</h2>
