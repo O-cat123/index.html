@@ -12,7 +12,7 @@
 		<tr><a href=""><img src="buttons 2.png" alt="javascripts"></a></tr>
 		<tr><a href="about.html"><img src="buttons 3.png" alt="about me"></a></tr>
 	</thead>
-	<h1>Welcome to Owen Gropper's Portfolio Website</h1>
+	<h2>Welcome to Owen Gropper's Portfolio Website</h2>
     </body>
 </html>
 
