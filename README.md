@@ -10,8 +10,8 @@
 <table>
 	<thead>
 		<tr><a href="https://o-cat123.github.io/owengropper/"><img src="" alt="home button"></a></tr>
-		<tr><a href=""><img src="" alt="javascripts></a></tr>
-		<tr><a href=""><img src="" alt="about me"></a></tr>
+		<tr><a href=""><img src="buttons 2.png" alt="javascripts></a></tr>
+		<tr><a href=""><img src="buttons 3.png" alt="about me"></a></tr>
 	</thead>
 	<h1>Hello World!!!</h1>
     </body>
