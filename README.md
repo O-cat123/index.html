@@ -6,7 +6,6 @@
     </head>
     <body>
 <img src="csc106_banner.jpg" alt="banner"><br>
-
 	    <table>
 	<thead>
 		<tr><a href="https://o-cat123.github.io/owengropper/"><img src="buttons for html page.png" alt="home button"></a></tr>
