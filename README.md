@@ -14,6 +14,9 @@
 	</thead>
 	<h2>Welcome to Owen Gropper's Portfolio Website</h2>
 	<p>This website is for all of the projects I have done throughout this semester! It also has some information about me and some of my hobbies and interests. This website itself was my first project and will be used to organize future projects. This project was good practice because it contained things such as embedded links in images.</p>
+	<thead>
+		<th><img src="" alt="jimi hendrix playing guitar" width="550"></th>
+		<th><img src="" alt="japanese temple" width="550"></th>
     </body>
 </html>
 
