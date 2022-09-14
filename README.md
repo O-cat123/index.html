@@ -6,10 +6,10 @@
         <title>OG Website</title>
     </head>
     <body>
-<img src="" alt="banner">
+<img src="csc106 banner" alt="banner">
 <table>
 	<thead>
-		<tr><a href="https://o-cat123.github.io/owengropper/"><img src="" alt="home button"></a></tr>
+		<tr><a href="https://o-cat123.github.io/owengropper/"><img src="buttons for html page.png" alt="home button"></a></tr>
 		<tr><a href=""><img src="buttons 2.png" alt="javascripts></a></tr>
 		<tr><a href=""><img src="buttons 3.png" alt="about me"></a></tr>
 	</thead>
