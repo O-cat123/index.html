@@ -9,7 +9,7 @@
 	    <table>
 	<thead>
 		<tr><a href="https://o-cat123.github.io/index.html/"><img src="buttons for html page.png" alt="home button"></a></tr>
-		<tr><a href="javascripts.html"><img src="buttons 2.png" alt="javascripts"></a></tr>
+		<tr><a href="https://o-cat123.github.io/index.html/New_Text_Document.txt"><img src="buttons 2.png" alt="javascripts"></a></tr>
 		<tr><a href="about.html"><img src="buttons 3.png" alt="about me"></a></tr>
 	</thead>
 	<h2>Welcome to Owen Gropper's Portfolio Website</h2>
