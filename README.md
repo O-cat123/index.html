@@ -3,14 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>OG Website</title>
-	<style>
-	#owengropper {
-	float: right;
-	margin-right: 5px;
-	margin-top: 5px;
-	}
-	
-	</style>
+	<link rel="stylesheet" href="index.css" type="text">
     </head>
     <body>
 <img src="myBanner.jpg" alt="banner">
