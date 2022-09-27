@@ -4,10 +4,17 @@
         <meta charset="utf-8">
         <title>OG Website</title>
 	<style>
+	#owengropper {
+	float: right;
+	margin-right: 5px;
+	margin-top: 5px;
+	}
+	
 	</style>
     </head>
     <body>
-<img src="myBanner.jpg" alt="banner"><br>
+<img src="myBanner.jpg" alt="banner">
+<div id="owengropper"><img src="owengropper.png"></div>
 	    <table>
 	<thead>
 		<tr><a href="https://o-cat123.github.io/index.html/"><img src="homepage_button.gif" alt="home button.jpg"></a></tr>
