@@ -10,9 +10,9 @@
 <img src="myBanner.jpg" alt="banner"><br>
 	    <table>
 	<thead>
-		<tr><a href="https://o-cat123.github.io/index.html/"><img src="home_button" alt="home button.jpg"></a></tr>
-		<tr><a href="javascripts.html"><img src="buttons 2.png" alt="javascripts_button.jpg"></a></tr>
-		<tr><a href="about.html"><img src="buttons 3.png" alt="about_button.jpg"></a></tr>
+		<tr><a href="https://o-cat123.github.io/index.html/"><img src="homepage_button.gif" alt="home button.jpg"></a></tr>
+		<tr><a href="javascripts.html"><img src="javascripts_button.gif" alt="javascripts_button.gif"></a></tr>
+		<tr><a href="about.html"><img src="about_button.gif" alt="about_button.gif"></a></tr>
 	</thead>
 	<h2>Welcome to Owen Gropper's Portfolio Website</h2>
 	<p>This website is for all of the projects I have done throughout this semester! It also has some information about me and some of my hobbies and interests. This website itself was my first project and will be used to organize future projects. This project was good practice because it contained things such as embedded links in images.</p>
