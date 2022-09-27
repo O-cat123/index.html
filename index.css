@@ -1,7 +1,13 @@
 <style>
+	
+
 	#owengropper {
 	float: right;
 	margin-right: 5px;
 	margin-top: 5px;
 	}
+	
+	body {
+		background-color: rgb(192,192,192);
+}
 	</style>
