@@ -20,6 +20,7 @@
 	<thead>
 		<th><img src="computerhead.avif" alt="guy who looks like a computer" width="350"></th>
 		<th><img src="uri.png" alt="" width="550"></th>
+	    </thead>
     </body>
 </html>
 
