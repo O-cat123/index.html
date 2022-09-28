@@ -2,7 +2,9 @@
 	
 
 
-	
+	p {
+		font-family: system-ui;
+}
 	body {
 		background-color: rgb(82, 200, 229);
 }
