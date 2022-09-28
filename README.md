@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>OG Website</title>
-	<link rel="stylesheet" href="style.css" type="text">
+	<link rel="stylesheet" href="style.css">
     </head>
     <body>
 <img src="myBanner(3).png" alt="banner"><br>
