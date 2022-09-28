@@ -4,9 +4,9 @@
 
 	p {
 		font-family: system-ui;
+		background-image: url(myBackground.jpg);
 }
 	body {
-		background-image: url(myBackground.jpg);
 		background-color: rgb(82, 200, 229);
 		width: 800px;
 }
