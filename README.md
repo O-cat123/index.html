@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="style.css">
     </head>
     <body>
+    <div id="yo">
 <img src="myBanner(3).png" alt="banner"><br>
 	    <table>
 	<thead>
@@ -23,6 +24,7 @@
 		<tr><img src="uri.png" alt="" width="550"></tr>
 	    </thead>
 	    </table>
+	    </div>
     </body>
 </html>
 
