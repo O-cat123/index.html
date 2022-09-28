@@ -6,8 +6,7 @@
 	<link rel="stylesheet" href="style.css" type="text">
     </head>
     <body>
-<img src="myBanner.jpg" alt="banner">
-<div id="owengropper"><img src="owengropper.jpg"></div>
+<img src="myBanner(2).png" alt="banner">
 	    <table>
 	<thead>
 		<tr><a href="https://o-cat123.github.io/index.html/"><img src="homepage_button.jpg" alt="home button.jpg"></a></tr>
