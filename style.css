@@ -1,7 +1,9 @@
 <style>
 	
 
-
+	#yo {
+		width: 800px;
+}
 	p {
 		font-family: system-ui;
 		background-image: url(myBackground.jpg);
