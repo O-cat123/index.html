@@ -6,7 +6,7 @@
 		font-family: system-ui;
 }
 	body {
-		background-image: url(website background.jpg);
+		background-image: url(../website background.jpg);
 		background-color: rgb(82, 200, 229);
 		width: 800px;
 }
